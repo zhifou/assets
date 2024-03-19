@@ -20,3 +20,8 @@
 ## 音频
 
 - assets/audio/many-people-in-the-world.mp3
+
+## 视频
+
+- assets/video/snail.mp4
+- assets/video/ocean_wolrd.mp4
