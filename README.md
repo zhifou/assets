@@ -25,3 +25,5 @@
 
 - assets/video/snail.mp4
 - assets/video/ocean_wolrd.mp4
+- assets/video/river.mp4
+- assets/video/1.m3u8
